@@ -8,12 +8,9 @@ fi
 
 echo "Deleting old publication"
 rm -rf public
-git worktree prune
-rm -rf .git/worktrees/public/
-mkdir public
 
-echo "Checking out master branch into public"
-git worktree add -B master public origin/master
+echo "Checking out site"
+git clone https://github.com/setupminimal/setupminimal.github.io/public
 
 echo "Removing existing files"
 rm -rf public/*
