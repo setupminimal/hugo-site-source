@@ -10,7 +10,7 @@ echo "Deleting old publication"
 rm -rf public
 
 echo "Checking out site"
-git clone https://github.com/setupminimal/setupminimal.github.io/public
+git clone https://github.com/setupminimal/setupminimal.github.io/ public
 
 echo "Removing existing files"
 rm -rf public/*
