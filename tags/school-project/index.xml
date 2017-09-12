@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School Project on Setupminimal</title>
+    <link>https://setupminimal.github.io/tags/school-project/</link>
+    <description>Recent content in School Project on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/tags/school-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JuliaClock</title>
+      <link>https://setupminimal.github.io/project/juliaclock/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/juliaclock/</guid>
+      <description>I created JuliaClock during High School for my required art credit. JuliaClock is a program that takes the current time, generates a unique Julia Set, and then simulates painting it.
+If you are interested in the Source Code, you may be able to get JuliaClock to run on your computer. It relies on the Python Image Library and on TK. If you&amp;rsquo;d rather just look at pretty pictures: (and videos, at the bottom)</description>
+    </item>
+    
+  </channel>
+</rss>

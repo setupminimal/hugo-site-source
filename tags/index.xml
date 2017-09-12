@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Setupminimal</title>
+    <link>https://setupminimal.github.io/tags/</link>
+    <description>Recent content in Tags on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Art</title>
+      <link>https://setupminimal.github.io/tags/art/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clojurescript</title>
+      <link>https://setupminimal.github.io/tags/clojurescript/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/clojurescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elm</title>
+      <link>https://setupminimal.github.io/tags/elm/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/elm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun</title>
+      <link>https://setupminimal.github.io/tags/fun/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://setupminimal.github.io/tags/project/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ravelry</title>
+      <link>https://setupminimal.github.io/tags/ravelry/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/ravelry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Project</title>
+      <link>https://setupminimal.github.io/tags/school-project/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/school-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://setupminimal.github.io/tags/website/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

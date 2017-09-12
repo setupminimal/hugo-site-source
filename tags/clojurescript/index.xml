@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clojurescript on Setupminimal</title>
+    <link>https://setupminimal.github.io/tags/clojurescript/</link>
+    <description>Recent content in Clojurescript on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/tags/clojurescript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paperclip Optimizer</title>
+      <link>https://setupminimal.github.io/project/paperclip-optimizer/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/paperclip-optimizer/</guid>
+      <description>Paperclip Optimizer is a fun little game that I made with Clojurescript. In it, you play an AI who&amp;rsquo;s goal is to maximize the number of paperclips in the world - the number of paperclips is essentially your score. But! Your job isn&amp;rsquo;t as simple as just producing as many paperclips as possible through manual labor - the world of Paperclip Optimizer has a full-fledged economy, that you need to exploit if you want to produce the most paperclips.</description>
+    </item>
+    
+  </channel>
+</rss>

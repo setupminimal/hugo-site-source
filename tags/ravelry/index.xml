@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ravelry on Setupminimal</title>
+    <link>https://setupminimal.github.io/tags/ravelry/</link>
+    <description>Recent content in Ravelry on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/tags/ravelry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foxy Society Name Generator</title>
+      <link>https://setupminimal.github.io/project/foxy/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/foxy/</guid>
+      <description>I created the Foxy Society Name Generator a while ago for the HPKCHC. It&amp;rsquo;s a fun way to find out what your Secret Foxy Society Name might be.</description>
+    </item>
+    
+  </channel>
+</rss>

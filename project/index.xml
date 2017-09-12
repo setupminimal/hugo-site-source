@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Setupminimal</title>
+    <link>https://setupminimal.github.io/project/</link>
+    <description>Recent content in Projects on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foxy Society Name Generator</title>
+      <link>https://setupminimal.github.io/project/foxy/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/foxy/</guid>
+      <description>I created the Foxy Society Name Generator a while ago for the HPKCHC. It&amp;rsquo;s a fun way to find out what your Secret Foxy Society Name might be.</description>
+    </item>
+    
+    <item>
+      <title>JuliaClock</title>
+      <link>https://setupminimal.github.io/project/juliaclock/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/juliaclock/</guid>
+      <description>I created JuliaClock during High School for my required art credit. JuliaClock is a program that takes the current time, generates a unique Julia Set, and then simulates painting it.
+If you are interested in the Source Code, you may be able to get JuliaClock to run on your computer. It relies on the Python Image Library and on TK. If you&amp;rsquo;d rather just look at pretty pictures: (and videos, at the bottom)</description>
+    </item>
+    
+    <item>
+      <title>Law Search</title>
+      <link>https://setupminimal.github.io/project/law-search/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/law-search/</guid>
+      <description>Law Search is a tool that I made a little while ago. It is still a bit rough around the edges, but it allows you to search OpenStates.org data for bills with certain keywords. It was also the first thing that I built with Elm.</description>
+    </item>
+    
+    <item>
+      <title>Paperclip Optimizer</title>
+      <link>https://setupminimal.github.io/project/paperclip-optimizer/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/project/paperclip-optimizer/</guid>
+      <description>Paperclip Optimizer is a fun little game that I made with Clojurescript. In it, you play an AI who&amp;rsquo;s goal is to maximize the number of paperclips in the world - the number of paperclips is essentially your score. But! Your job isn&amp;rsquo;t as simple as just producing as many paperclips as possible through manual labor - the world of Paperclip Optimizer has a full-fledged economy, that you need to exploit if you want to produce the most paperclips.</description>
+    </item>
+    
+  </channel>
+</rss>

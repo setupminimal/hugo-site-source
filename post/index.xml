@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Setupminimal</title>
+    <link>https://setupminimal.github.io/post/</link>
+    <description>Recent content in Posts on Setupminimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://setupminimal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website</title>
+      <link>https://setupminimal.github.io/post/first-post/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://setupminimal.github.io/post/first-post/</guid>
+      <description>Hello, Everyone! I thought it was time to revamp my website, with the help of a lovely tutorial on Hugo, a lovely static site generator.</description>
+    </item>
+    
+  </channel>
+</rss>
