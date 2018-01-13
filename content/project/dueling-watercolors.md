@@ -42,3 +42,7 @@ So, under those constraints, how do you think the program did? If you are an art
 </video>
 
 If you're interested in the source, it is [here](https://gist.github.com/setupminimal/a53a703e43d2f06fb62de4747c12b75c).
+
+## Update later on 2018-01-13:
+
+Due to popular demand (well, if one person and my boredom is popular), there is now a HTML5, phone-friendly paint-smudging game [called Smudge available here](/watercolors).

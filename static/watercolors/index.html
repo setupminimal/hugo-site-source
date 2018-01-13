@@ -121,6 +121,16 @@
 
              canvas1.addEventListener('mousemove', clicked);
              canvas2.addEventListener('mousemove', clicked);
+             canvas1.addEventListener('touchmove', clicked);
+             canvas2.addEventListener('touchmove', clicked);
+
+             // Prevent mobile scrolling
+             document.body.addEventListener('touchstart', function(e){
+                 if (e.changedTouches[0].target.id == "canvas1" || e.changedTouches[0].target.id == "canvas2") {
+                     e.preventDefault();
+                 }
+
+             });
          }
 
         </script>
