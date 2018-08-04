@@ -21,10 +21,10 @@ theme = "minimal"
     name = "Home"
     weight = 1
 
-[[menu.main]]
-    url = "/blog/"
-    name = "Blog"
-    weight = 5
+#[[menu.main]]
+#    url = "/blog/"
+#    name = "Blog"
+#    weight = 5
 
 #[[menu.main]]
 #    url = "/post/"
