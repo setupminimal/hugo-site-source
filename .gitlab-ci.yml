@@ -1,9 +1,9 @@
 pages:
   stage: deploy
   script:
-    - echo '...'
+    - hugo
   artifacts:
     paths:
-      - .
+      - public
   only:
     - master
